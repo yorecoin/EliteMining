@@ -1,0 +1,20 @@
+{
+    "full_name": "Grin Gold Miner",
+    "for_amd": true,
+    "for_nvidia": true,
+    "for_cpu": false,
+    "for_asic": false,
+    "for_intel": false,
+    "dual": false,
+    "ssl_prefix": "",
+    "default_algo": "cuckoo",
+    "default_fork": "gringoldminer",
+    "default_units": "khs",
+    "algos": [],
+    "dalgos": [],
+    "algomap": null,
+    "forks": [
+      "gringoldminer",
+      "monerov"
+    ]
+}

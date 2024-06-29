@@ -1,0 +1,20 @@
+{
+    "full_name": "XPM miner",
+    "for_amd": true,
+    "for_nvidia": true,
+    "for_cpu": false,
+    "for_intel": false,
+    "for_asic": false,
+    "dual": false,
+    "ssl_prefix": "",
+    "default_algo": "prime",
+    "default_fork": "extremal-ik7-opencl",
+    "default_units": "khs",
+    "algos": [],
+    "dalgos": [],
+    "algomap": null,
+    "forks": [
+       "extremal-ik7-opencl",
+       "extremal-ik7-cuda"
+    ]
+}

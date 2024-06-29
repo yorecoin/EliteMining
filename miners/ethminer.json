@@ -1,0 +1,47 @@
+{
+    "full_name": "Ethminer",
+    "for_amd": true,
+    "for_nvidia": true,
+    "for_cpu": false,
+    "for_asic": false,
+    "for_intel": false,
+    "dual": false,
+    "ssl_prefix": "",
+    "default_algo": "ethash",
+    "default_fork": "ethash",
+    "default_units": "khs",
+    "algos": [],
+    "dalgos": [],
+    "forks": [
+        "ethash",
+        "ethercore",
+        "firominer",
+        "kawpowminer",
+        "nsfminer",
+        "olminer",
+        "progpow",
+        "progpowz",
+        "quarkchain",
+        "serominer",
+        "teominer",
+        "ubqminer",
+        "zilminer"
+    ],
+    "fork_algo": {
+        "ethercore": "progpow",
+        "firominer": "firopow",
+        "kawpowminer": "kawpow",
+        "nsfminer": "ethash",
+        "olminer": "olhash",
+        "progpow": "progpow",
+        "progpowz": "progpow",
+        "quarkchain": "ethash",
+        "serominer": "progpow",
+        "teominer": "tethashv1",
+        "ubqminer": "ubqhash",
+        "zilminer": "ethash"
+    },
+    "algomap": {
+        "ubiqhash": "ubqhash"
+    }
+}

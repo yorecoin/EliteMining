@@ -1,0 +1,19 @@
+{
+    "full_name": "nq-miner",
+    "for_amd": true,
+    "for_nvidia": true,
+    "for_cpu": false,
+    "for_asic": false,
+    "for_intel": false,
+    "dual": false,
+    "ssl_prefix": "",
+    "default_algo": "argon2d-nim",
+    "default_fork": null,
+    "default_units": "khs",
+    "algos": [
+        "argon2d-nim"
+    ],
+    "dalgos": [],
+    "algomap": {},
+    "forks": []
+}

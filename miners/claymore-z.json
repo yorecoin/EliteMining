@@ -1,0 +1,17 @@
+{
+    "full_name": "Claymore ZCash",
+    "for_amd": true,
+    "for_nvidia": false,
+    "for_cpu": false,
+    "for_asic": false,
+    "for_intel": false,
+    "dual": false,
+    "ssl_prefix": "ssl://",
+    "default_algo": "equihash",
+    "default_fork": null,
+    "default_units": "khs",
+    "algos": [],
+    "dalgos": [],
+    "algomap": null,
+    "forks": []
+}

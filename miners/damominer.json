@@ -1,0 +1,34 @@
+{
+    "full_name": "DamoMiner",
+    "for_asic": false,
+    "for_cpu": false,
+    "for_amd": true,
+    "for_nvidia": true,
+    "for_intel": false,
+    "dual": true,
+    "ssl_prefix": "",
+    "default_algo": null,
+    "default_fork": null,
+    "default_units": "khs",
+    "algos": [
+        "eth",
+        "ckb",
+        "rvn"
+    ],
+    "dalgos": [
+        "ckb",
+        "hns",
+        "trb"
+    ],
+    "dual_modes": {
+        "eth": ["ckb", "hns", "trb"]
+    },
+    "algomap": {
+        "eth": "ethash",
+        "ckb": "eaglesong",
+        "hns": "bl2bsha3",
+        "trb": "tellor",
+        "rvn": "kawpow"
+    },
+    "forks": []
+}

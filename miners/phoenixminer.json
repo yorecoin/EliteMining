@@ -1,0 +1,19 @@
+{
+    "full_name": "PhoenixMiner",
+    "for_amd": true,
+    "for_nvidia": true,
+    "for_cpu": false,
+    "for_asic": false,
+    "for_intel": false,
+    "dual": false,
+    "ssl_prefix": "ssl://",
+    "default_algo": "ethash",
+    "default_fork": null,
+    "default_units": "khs",
+    "algos": [],
+    "dalgos": [],
+    "algomap": {
+       "ubiqhash": "ubqhash"
+    },
+    "forks": []
+}

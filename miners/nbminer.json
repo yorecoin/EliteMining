@@ -1,0 +1,49 @@
+{
+    "full_name": "NBMiner",
+    "for_amd": true,
+    "for_nvidia": true,
+    "for_cpu": false,
+    "for_asic": false,
+    "for_intel": false,
+    "dual": true,
+    "ssl_prefix": "",
+    "default_algo": null,
+    "default_fork": null,
+    "default_units": "khs",
+    "algos": [
+        "beamv3",
+        "bfc",
+        "cuckaroo",
+        "cuckaroo_swap",
+        "cuckarood",
+        "cuckatoo",
+        "cuckoo_ae",
+        "cuckatoo32",
+        "ergo",
+        "etchash",
+        "ethash",
+        "kawpow",
+        "octopus",
+        "progpow_sero",
+        "sipc",
+        "tensority"
+    ],
+    "dalgos": [
+    ],
+    "dual_modes": {
+    },
+    "algomap": {
+        "beamv3": "beamhashv3",
+        "bfc": "cuckaroo29-bfc",
+        "cuckaroo": "cuckoo",
+        "cuckarood": "cuckoo",
+        "cuckaroo_swap": "cuckaroo29s",
+        "cuckatoo": "cuckatoo31",
+        "cuckoo_ae": "cuckoo cycle",
+        "ergo": "autolykos2",
+        "hns": "bl2bsha3",
+        "progpow_sero": "progpow",
+        "trb": "tellor"
+    },
+    "forks": []
+}
